@@ -29,3 +29,8 @@ nav { flex-wrap:wrap; }
 .legal h1 { font-size:clamp(2.5rem,6vw,4rem); }
 .legal h2 { font-size:1.5rem; margin-top:1.6em; }
 :lang(zh-Hant) h1, :lang(zh-Hant) h2 { letter-spacing:normal; line-height:1.25; }
+table { width:100%; border-collapse:collapse; margin-block:1rem; font-size:.95rem; }
+th, td { text-align:left; vertical-align:top; padding:.65rem .8rem; border-bottom:1px solid var(--line); }
+th { color:var(--accent); font-weight:750; }
+td { color:var(--muted); }
+.legal ul { color:var(--muted); padding-left:1.2rem; }
