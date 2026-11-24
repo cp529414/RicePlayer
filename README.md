@@ -1,8 +1,6 @@
 # RicePlayer
 
-[繁體中文](README.zh-Hant.md)
-
-Play your own video files on Mac, iPhone, iPad, and Apple Vision Pro. RicePlayer supports MP4, MOV, and compatible MKV files, with audio and subtitle selection and saved playback progress.
+Play your own video files on Mac, iPhone, and Apple Vision Pro. RicePlayer supports MP4, MOV, and compatible MKV files, with audio and subtitle selection and saved playback progress.
 
 - [RicePlayer website](https://cp529414.github.io/RicePlayer/)
 - [Compare Free and Pro](https://cp529414.github.io/RicePlayer/#editions)
@@ -10,8 +8,8 @@ Play your own video files on Mac, iPhone, iPad, and Apple Vision Pro. RicePlayer
 - [Privacy Policy](https://cp529414.github.io/RicePlayer/privacy/)
 - [Terms of Use](https://cp529414.github.io/RicePlayer/terms/)
 
-**RicePlayer** plays local files. The free iPhone and iPad edition may show banner ads when advertising is enabled.
+**RicePlayer** plays local files, up to 30 minutes in total each day. The free iPhone edition may show a banner advertisement on its main screen.
 
-**RicePlayer Pro** is ad-free and adds RiceNetwork. To stream on your local network, add a compatible video in **Share** on the sending device. Open **Receive** on the other device and compare the pairing code before approving access.
+**RicePlayer Pro** has no daily limit, shows no ads, and adds RiceNetwork. To stream on your local network, add a compatible video in **Share** on the sending device. Open **Receive** on the other device and compare the pairing code before approving access.
 
-RicePlayer opens the media you choose without requiring a RicePlayer account. The privacy policy covers local data, approved sharing, Google advertising and consent, and App Store purchases.
+RicePlayer opens the media you choose without requiring a RicePlayer account. The Privacy Policy and Terms of Use cover local data, approved sharing, Google advertising and consent, App Store purchases and tips, and the daily playback limit. Both are English only, and the same text is available inside each app.
